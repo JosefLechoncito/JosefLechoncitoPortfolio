@@ -1,7 +1,22 @@
 header {
-    border: 10px solid black;
+    background-color: #a3d9a5;
     margin: 0px;
+    border: 10px solid #a3d9a5;
+    
+    
 }
  body {
     margin: 0px;
+    background-color: #e6ffe6;
+ }
+ footer {
+    width: 100%;
+    height: 75px;
+    background-color: #568956;
+    bottom: 0;
+    position: fixed;
+ }
+ .heeders {
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
  }
