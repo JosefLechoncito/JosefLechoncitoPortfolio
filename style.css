@@ -1,3 +1,7 @@
 header {
     border: 10px solid black;
+    margin: 0px;
 }
+ body {
+    margin: 0px;
+ }
